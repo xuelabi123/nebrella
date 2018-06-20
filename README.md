@@ -1,7 +1,10 @@
 # nebrella
-This is the Nebulas compatible JavaScript API,Base on neb.js and nebpay.js
+<p>This is the Nebulas compatible JavaScript API,Base on neb.js and nebpay.js</p>
 
-Install && Package
-Use the npm installation dependencies
-
+##  Install && Package
+<p>Use the npm installation dependencies<p>
+<pre>
+<code>
 npm i nebrella
+</code>
+</pre>
