@@ -3,6 +3,8 @@ This is the Nebulas compatible JavaScript API,Base on [neb.js](https://github.co
 
 ##  Install && Package
 <p>Use the npm installation dependencies<p>
+<pre>
 <code>
 npm i nebrella
 </code>
+</pre>
