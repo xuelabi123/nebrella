@@ -16,7 +16,7 @@
   "author": "panyox",
   "license": "MIT",
   "dependencies": {
-  	"axios": "0.18.0",
+  	"axios": "1.6.0",
   	"qrcode": "^1.2.0",
     "extend": ">=3.0.1",
     "bignumber.js": "^5.0.0",
